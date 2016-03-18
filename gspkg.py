@@ -1,4 +1,5 @@
 
 pkgDeps = [ ]
 gspkgDeps = [ ]
+resFiles = [ ]
 
